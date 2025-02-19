@@ -1,4 +1,7 @@
 # Hi there, I'm Elkhan! 👋
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79D&width=450&lines=Software+Developer;Programming+Instructor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ### 🚀 About Me
 - 💻 I’m a **Software Developer / Programming Instructor**
@@ -41,6 +44,11 @@
 ---
 
 ### 📢 Let's Connect
+### 📢 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/elkhan199725)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-grey?style=for-the-badge&logo=github)](https://github.com/elkhan199725)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internetexplorer)](https://yourportfolio.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/elkhan199725)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-grey?style=flat&logo=github)](https://github.com/elkhan199725)
 
@@ -48,3 +56,11 @@
 
 ### 🎉 Profile Views Counter
 ![Profile Views](https://komarev.com/ghpvc/?username=elkhan199725&color=blue)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/elkhan199725/elkhan199725/blob/output/github-contribution-grid-snake.svg)
+
+### 😆 Developer Meme of the Day
+<img src="https://i.redd.it/4hl8h0fqpsw51.jpg" width="500">
+
