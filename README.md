@@ -36,9 +36,9 @@
 
 ### 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elkhan199725&repo=yourproject&theme=radical)](https://github.com/elkhan199725/BookAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elkhan199725&repo=Numeric-Values&theme=radical)](https://github.com/Elkhan199725/Numeric-Values)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elkhan199725&repo=yourproject2&theme=radical)](https://github.com/elkhan199725/Numeric-Values)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elkhan199725&repo=C-and-.NET-Essential&theme=radical)](https://github.com/Elkhan199725/C-and-.NET-Essential)
 
 ---
 
