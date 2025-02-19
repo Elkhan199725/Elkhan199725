@@ -43,12 +43,10 @@
 ---
 
 ### 📢 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elkhan-mammadli-920127177/?locale=en_US)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-grey?style=for-the-badge&logo=github)](https://github.com/elkhan199725)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internetexplorer)](https://yourportfolio.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/elkhan199725)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-grey?style=flat&logo=github)](https://github.com/elkhan199725)
+[![Steam](https://img.shields.io/badge/Steam-Profile-1b2838?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/elkhan199725/)
 
 ---
 
