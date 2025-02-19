@@ -1,5 +1,4 @@
 # Hi there, I'm Elkhan! 👋
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79D&width=450&lines=Software+Developer;Programming+Instructor;Tech+Enthusiast)](https://git.io/typing-svg)
 
