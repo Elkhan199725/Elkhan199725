@@ -43,8 +43,6 @@
 ---
 
 ### 📢 Let's Connect
-### 📢 Let's Connect
-### 📢 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elkhan-mammadli-920127177/?locale=en_US)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-grey?style=for-the-badge&logo=github)](https://github.com/elkhan199725)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internetexplorer)](https://yourportfolio.com)
