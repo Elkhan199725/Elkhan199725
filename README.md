@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React, TypeScript, and Node.js**
 - 🤝 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Web Development, .NET, JavaScript**
-- 📫 How to reach me: [elkhantma@code.edu.az] | [[LinkedIn](https://linkedin.com/in/elkhan199725)](https://www.linkedin.com/in/elkhan-mammadli-920127177/?locale=en_US)
+- 📫 How to reach me: [elkhantma@code.edu.az]
 - 🎯 Fun fact: **I love problem-solving and automation!**
 
 ---
